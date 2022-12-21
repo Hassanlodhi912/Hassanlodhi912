@@ -1,7 +1,4 @@
 - Hi there 👋
-- My name is Muhammad Hassan Lodhi  enrolled in Bscs in Hamdard University .
-- I am socially interactive and attend almost every event of university sometime as an OB and sometime as an participant from 2nd semester onward 
-- I am currently learning React js ,ReactNative and Flutter
-- I am interested in web development and Mobile App Development
+- I am a passionate and Web and Mobile App Developer with problem-solving skills and proven experience in creating and designing. Working on various projects on React js and React Native . I am also pursuing my bachelor's degree from Hamdard University and a 4th year student of Computer Science. I am a keen learner who wants to make move towards new technology and likes to integrate to a new system.
 - I’m looking to collaborate on React projects
 
